@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Decorator/BlueColorDecorator.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Decorator/TShirtDecorator.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Factory/AisaFacorty.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Factory/MediumTShirt.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Decorator/TextDecorator.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Observer/Subject.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Observer/SalesTracker.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Factory/SmallTShirt.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Factory/TShirt.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Decorator/RedColorDecorator.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Factory/TShirtFactory.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Factory/LargeTShirt.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Factory/ChinaFactory.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Factory/MiddleEastFactory.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Observer/ShopOwner.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Observer/Observer.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/desginpatterns/TShirtShopTest.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Singelton/TShirtOrderManager.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/DesginPatterns/src/Decorator/LogoDecorator.java</file>
+        </group>
+    </open-files>
+</project-private>
